@@ -1,0 +1,61 @@
+package Bai_Thuc_Hanh_1;
+
+import java.util.*;
+
+class Node {
+    int mu, coso;
+
+    public Node(int coso, int mu) {
+        this.mu = mu;
+        this.coso = coso;
+    }
+}
+
+class PrimeFactorization {
+    public static List<Node> phanRaSNT(int n) {
+        List<Node> result = new ArrayList<>();
+        int i = 2;
+
+        while (n > 1) {
+            int k = 0;  // Đếm số mũ của thừa số nguyên tố i
+
+            while (n % i == 0) {
+                k++;
+                n /= i;
+            }
+
+            if (k > 0) {
+                result.add(new Node(i, k));  // Thêm thừa số nguyên tố vào danh sách
+            }
+
+            i++;
+        }
+
+        return result;
+    }
+}
+
+public class b18 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Nhập số nguyên dương n: ");
+        int n = sc.nextInt();
+
+        if (n <= 0) {
+            System.out.println("Vui lòng nhập số nguyên dương lớn hơn 0.");
+            return;
+        }
+
+        List<Node> factors = PrimeFactorization.phanRaSNT(n); // Gọi phương thức từ class PrimeFactorization
+
+        System.out.print(n + " = ");
+        for (int j = 0; j < factors.size(); j++) {
+            Node node = factors.get(j);
+            System.out.print(node.coso + "^" + node.mu);
+            if (j < factors.size() - 1) System.out.print(" * ");
+        }
+        System.out.println();
+
+        sc.close();
+    }
+}

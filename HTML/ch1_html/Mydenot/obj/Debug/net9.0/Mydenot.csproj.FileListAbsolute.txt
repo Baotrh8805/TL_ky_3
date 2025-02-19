@@ -1,0 +1,14 @@
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/bin/Debug/net9.0/Mydenot
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/bin/Debug/net9.0/Mydenot.deps.json
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/bin/Debug/net9.0/Mydenot.runtimeconfig.json
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/bin/Debug/net9.0/Mydenot.dll
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/bin/Debug/net9.0/Mydenot.pdb
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.AssemblyInfoInputs.cache
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.AssemblyInfo.cs
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.csproj.CoreCompileInputs.cache
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.dll
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/refint/Mydenot.dll
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.pdb
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/Mydenot.genruntimeconfig.cache
+/Users/thinguyen/Desktop/hoclt/HTML/ch1_html/Mydenot/obj/Debug/net9.0/ref/Mydenot.dll

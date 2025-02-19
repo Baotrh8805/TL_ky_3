@@ -1,0 +1,6 @@
+a|password123|001|0
+ab|ab|002|1
+abc|secretkey|003|0
+bb cc|construction!|004|1
+cdf|peanuts|005|0
+abcd|12345|006|1

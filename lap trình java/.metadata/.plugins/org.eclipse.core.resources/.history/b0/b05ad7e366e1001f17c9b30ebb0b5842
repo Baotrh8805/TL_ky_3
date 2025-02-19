@@ -1,0 +1,9 @@
+package bt_tren_lop;
+
+public class buoi_1 {
+	
+	public static void mani(String[]args) {
+		System.out.println("helo bao");
+	}
+
+}

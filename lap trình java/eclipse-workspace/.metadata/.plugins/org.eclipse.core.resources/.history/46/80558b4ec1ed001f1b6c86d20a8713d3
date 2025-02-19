@@ -1,0 +1,24 @@
+package user;
+public class Staff extends user {
+    private String staffID; // Mã nhân viên
+    private String position; // Chức vụ
+
+    public Staff(String name, String phone, String email, String staffID, String position) {
+        super(name, phone, email, Role.STAFF);
+        this.staffID = staffID;
+        this.position = position;
+    }
+
+    public String getStaffID() { return staffID; }
+    public void setStaffID(String staffID) { this.staffID = staffID; }
+
+    public String getPosition() { return position; }
+    public void setPosition(String position) { this.position = position; }
+
+    @Override
+    public void showInfo() {
+        super.showInfo();
+        System.out.println("Staff ID: " + staffID + ", Position: " + position);
+    }
+}
+

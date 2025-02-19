@@ -1,0 +1,19 @@
+package user;
+
+public class Staff extends User {
+    private String position;
+
+    public Staff(String name, String phone, String email, String position) {
+        super(name, phone, email, Role.STAFF);
+        this.position = position;
+    }
+
+    public String getPosition() { return position; }
+    public void setPosition(String position) { this.position = position; }
+
+    @Override
+    public void showInfo() {
+        super.showInfo();
+        System.out.println("Position: " + position);
+    }
+}

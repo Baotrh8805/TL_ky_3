@@ -1,0 +1,18 @@
+package user;
+public class admin extends User {
+    private String adminCode; // Mã admin
+
+    public admin(String name, String phone, String email, String adminCode) {
+        super(name, phone, email, Role.ADMIN);
+        this.adminCode = adminCode;
+    }
+
+    public String getAdminCode() { return adminCode; }
+    public void setAdminCode(String adminCode) { this.adminCode = adminCode; }
+
+    @Override
+    public void showInfo() {
+        super.showInfo();
+        System.out.println("Admin Code: " + adminCode);
+    }
+}

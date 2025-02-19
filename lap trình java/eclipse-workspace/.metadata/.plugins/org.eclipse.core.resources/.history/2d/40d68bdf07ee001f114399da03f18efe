@@ -1,0 +1,7 @@
+package user;
+
+public enum Role {
+	ADMIN, // Chủ hệ thống (cao nhất)
+	CUSTOMER, // Khach hang
+	STAFF, //  nhan vien
+}

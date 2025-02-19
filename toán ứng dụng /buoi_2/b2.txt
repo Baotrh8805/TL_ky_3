@@ -1,0 +1,13 @@
+viết ct sử dụng hàm 
+    kèm theo độ phức tạp thuật toán đi kèm
+viết ct sử dụng thuật toán euclid's
+
+bài 3: Tìm cặp số nguyên tố cùng nhau
+bài 4: cho n nhập từ bàn phím, n đủ lớn , phân tích thừa số nguyên tố đối với n, tìm ước số nguyên tố lớn nhất của nó kí hiệu: m, tìm số nguyên tố gần m nhất, tìm số hoàn hảo gần nhất với m
+
+1. Viết chương trình xem trong đoạn sử dụng hàm có sử dụng sàn Eratosthenes (Liệt kê số, độ phức tạp thuật toán đi kèm) - Geekforgeek 
+2. Viết chương trình thuật toán Euclid (coprime là các nguyên tố cùng nhau khi có ước số chung lớn nhứt/Slide 29) 
+3. Viết chương trình thực hiện Ecleu's Totient Function 
+4. Cho n là đủ lớn, phân tích thừa số nguyên tố với số n. Ước số lớn nhứt của n -> m 
+5. Tìm số nguyên tố gần m nhất 
+6. Tìm số hoàn hảo gần m nhất với m nhập từ bàn phím

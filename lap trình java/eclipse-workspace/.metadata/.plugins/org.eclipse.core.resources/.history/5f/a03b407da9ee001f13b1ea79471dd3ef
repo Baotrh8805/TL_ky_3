@@ -1,0 +1,23 @@
+package user;
+
+public class Staff extends User {
+	protected String maNV;
+    protected double luongNV;
+    protected String ca_lam;
+    public Staff(int cccd, String name, int age, String sdt, String email, String maNV, double luongNV, String ca_lam) {
+        super(cccd, name, age, sdt, email, Role.STAFF); // Gọi constructor lớp cha
+        this.maNV = maNV;
+        this.luongNV = luongNV;
+        this.ca_lam = ca_lam;
+    }
+
+    public String getManv() { return maNV; }
+    public double getLuongnv() { return luongNV;}
+    public void setLuongnv(double luong) { this.luongNV = luong;}
+    
+    @Override
+    public void showInfo() {
+        System.out.println("Staff ID: " + id + ", Name: " + name + ", Phone: " + phone + ", Email: " + email);
+        System.out.println("Position: " + position);
+    }
+}

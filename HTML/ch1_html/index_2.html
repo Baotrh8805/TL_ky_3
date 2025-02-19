@@ -1,0 +1,48 @@
+<!-- 
+1. attribute - là một khái niệm chỉ 
+    cú pháp:
+    <h1 title="{thông báo khi click chuộc vào}"> {nội dung} </h1>
+    <h1 onclick="{tên một hàm trong js khi click vào thì sẽ gọi hàm đó}"> {nội dung} </h1>
+2. CSS
+    3 khái niệm cần nhớ
+    internal -thao tác bằng thẻ <style> trực tiếp trong file html
+    external - viết liên kết với file css và thao tác trên file css
+    inline - viết trên một attribute style
+3. selectors (ID và class )
+    <h1 ID="{id}"> {nội dung thẻ} </h1>
+
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <titel> học html buoi 2 </titel>
+        <meta charset="utf-8">
+        
+        <!-- external-->
+        <link rel="stylesheet" href="index.css">
+    
+        
+       <!-- 
+        internal
+            <style>
+                h1 {
+                    color: red;
+                }
+            </style>
+         -->
+    </head>
+    <body>
+        <h1 title="đây là ghi chú "> Học html buổi 2</h1>
+        <!-- cái title là thuộc tinh của thẻ h1: attribute-->
+        
+
+        <h2 style="color: red; font-size:20px">tiêu đề 2</h2>
+
+
+        <!-- selectors -->
+         <h1 id="a1"> nội dung văn bản 1</h1>
+         <h1 class="a2"> nội dung văn bản 2</h1>
+         <h1 class="a2 a3"> nội dung văn bản 3</h1>
+    </body>
+</html>
