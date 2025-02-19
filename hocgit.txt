@@ -1,0 +1,791 @@
+Last login: Wed Feb 19 20:14:40 on console
+thinguyen@This-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro ~ % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+==> Checking for `sudo` access (which may request your password)...
+Password:
+==> You are using macOS 12.5.
+==> We (and Apple) do not provide support for this old version.
+This installation may not succeed.
+After installation, you will encounter build failures with some formulae.
+Please create pull requests instead of asking for help on Homebrew's GitHub,
+Twitter or any other official channels. You are responsible for resolving any
+issues you experience while you are running this old version.
+
+==> This script will install:
+/opt/homebrew/bin/brew
+/opt/homebrew/share/doc/homebrew
+/opt/homebrew/share/man/man1/brew.1
+/opt/homebrew/share/zsh/site-functions/_brew
+/opt/homebrew/etc/bash_completion.d/brew
+/opt/homebrew
+==> The following new directories will be created:
+/opt/homebrew/bin
+/opt/homebrew/etc
+/opt/homebrew/include
+/opt/homebrew/lib
+/opt/homebrew/sbin
+/opt/homebrew/share
+/opt/homebrew/var
+/opt/homebrew/opt
+/opt/homebrew/share/zsh
+/opt/homebrew/share/zsh/site-functions
+/opt/homebrew/var/homebrew
+/opt/homebrew/var/homebrew/linked
+/opt/homebrew/Cellar
+/opt/homebrew/Caskroom
+/opt/homebrew/Frameworks
+==> The Xcode Command Line Tools will be installed.
+
+Press RETURN/ENTER to continue or any other key to abort:
+==> /usr/bin/sudo /usr/bin/install -d -o root -g wheel -m 0755 /opt/homebrew
+==> /usr/bin/sudo /bin/mkdir -p /opt/homebrew/bin /opt/homebrew/etc /opt/homebrew/include /opt/homebrew/lib /opt/homebrew/sbin /opt/homebrew/share /opt/homebrew/var /opt/homebrew/opt /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions /opt/homebrew/var/homebrew /opt/homebrew/var/homebrew/linked /opt/homebrew/Cellar /opt/homebrew/Caskroom /opt/homebrew/Frameworks
+==> /usr/bin/sudo /bin/chmod ug=rwx /opt/homebrew/bin /opt/homebrew/etc /opt/homebrew/include /opt/homebrew/lib /opt/homebrew/sbin /opt/homebrew/share /opt/homebrew/var /opt/homebrew/opt /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions /opt/homebrew/var/homebrew /opt/homebrew/var/homebrew/linked /opt/homebrew/Cellar /opt/homebrew/Caskroom /opt/homebrew/Frameworks
+==> /usr/bin/sudo /bin/chmod go-w /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions
+==> /usr/bin/sudo /usr/sbin/chown thinguyen /opt/homebrew/bin /opt/homebrew/etc /opt/homebrew/include /opt/homebrew/lib /opt/homebrew/sbin /opt/homebrew/share /opt/homebrew/var /opt/homebrew/opt /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions /opt/homebrew/var/homebrew /opt/homebrew/var/homebrew/linked /opt/homebrew/Cellar /opt/homebrew/Caskroom /opt/homebrew/Frameworks
+==> /usr/bin/sudo /usr/bin/chgrp admin /opt/homebrew/bin /opt/homebrew/etc /opt/homebrew/include /opt/homebrew/lib /opt/homebrew/sbin /opt/homebrew/share /opt/homebrew/var /opt/homebrew/opt /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions /opt/homebrew/var/homebrew /opt/homebrew/var/homebrew/linked /opt/homebrew/Cellar /opt/homebrew/Caskroom /opt/homebrew/Frameworks
+==> /usr/bin/sudo /usr/sbin/chown -R thinguyen:admin /opt/homebrew
+==> /usr/bin/sudo /bin/mkdir -p /Users/thinguyen/Library/Caches/Homebrew
+==> /usr/bin/sudo /bin/chmod g+rwx /Users/thinguyen/Library/Caches/Homebrew
+==> /usr/bin/sudo /usr/sbin/chown -R thinguyen /Users/thinguyen/Library/Caches/Homebrew
+==> Searching online for the Command Line Tools
+==> /usr/bin/sudo /usr/bin/touch /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
+==> Installing Command Line Tools for Xcode-14.2
+==> /usr/bin/sudo /usr/sbin/softwareupdate -i Command\ Line\ Tools\ for\ Xcode-14.2
+Software Update Tool
+
+Finding available software
+
+Downloading Command Line Tools for Xcode
+Downloaded Command Line Tools for Xcode
+Installing Command Line Tools for Xcode
+Done with Command Line Tools for Xcode
+Done.
+==> /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools
+==> /usr/bin/sudo /bin/rm -f /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
+==> Downloading and installing Homebrew...
+remote: Enumerating objects: 292897, done.
+remote: Counting objects: 100% (295/295), done.
+remote: Compressing objects: 100% (147/147), done.
+remote: Total 292897 (delta 207), reused 194 (delta 148), pack-reused 292602 (from 2)
+remote: Enumerating objects: 55, done.
+remote: Counting objects: 100% (33/33), done.
+remote: Total 55 (delta 33), reused 33 (delta 33), pack-reused 22 (from 1)
+==> Updating Homebrew...
+==> Downloading https://ghcr.io/v2/homebrew/portable-ruby/portable-ruby/blobs/sha256:d9faa506c014dedc0b034a68103ba75c9a58242f4d6c67b6ca0f649c39602bcf
+######################################################################### 100.0%
+==> Pouring portable-ruby-3.3.7.arm64_big_sur.bottle.tar.gz
+Warning: /opt/homebrew/bin is not in your PATH.
+  Instructions on how to configure your shell for Homebrew
+  can be found in the 'Next steps' section below.
+==> Installation successful!
+
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (nor will any be during this install run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run these commands in your terminal to add Homebrew to your PATH:
+    echo >> /Users/thinguyen/.zprofile
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/thinguyen/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+- Run brew help to get started
+- Further documentation:
+    https://docs.brew.sh
+
+thinguyen@This-MacBook-Pro ~ % echo >> /Users/thinguyen/.zprofile
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/thinguyen/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+thinguyen@This-MacBook-Pro ~ % clear
+
+thinguyen@This-MacBook-Pro ~ % brew install --cask visual-studio-code
+==> Downloading https://update.code.visualstudio.com/1.97.2/darwin-arm64/stable
+==> Downloading from https://vscode.download.prss.microsoft.com/dbazure/download
+######################################################################### 100.0%
+==> Installing Cask visual-studio-code
+==> Moving App 'Visual Studio Code.app' to '/Applications/Visual Studio Code.app
+==> Linking Binary 'code' to '/opt/homebrew/bin/code'
+🍺  visual-studio-code was successfully installed!
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+thinguyen@This-MacBook-Pro ~ % brew install --cask eclipse-ide
+==> Downloading https://www.eclipse.org/downloads/download.php?file=/technology/
+==> Downloading from https://mirror.umd.edu/eclipse/technology/epp/downloads/rel
+######################################################################### 100.0%
+==> Installing Cask eclipse-ide
+==> Moving App 'Eclipse.app' to '/Applications/Eclipse.app'
+🍺  eclipse-ide was successfully installed!
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+thinguyen@This-MacBook-Pro ~ % brew install --cask azure-data-studio
+==> Downloading https://azuredatastudio-update.azurewebsites.net/1.51.1/darwin-a
+==> Downloading from https://download.microsoft.com/download/380cb128-f316-418f-
+######################################################################### 100.0%
+==> Installing Cask azure-data-studio
+==> Moving App 'Azure Data Studio.app' to '/Applications/Azure Data Studio.app'
+==> Linking Binary 'code' to '/opt/homebrew/bin/azuredatastudio'
+🍺  azure-data-studio was successfully installed!
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+thinguyen@This-MacBook-Pro ~ % brew install --cask docker
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/deaf198
+######################################################################### 100.0%
+==> Downloading https://desktop.docker.com/mac/main/arm64/181591/Docker.dmg
+######################################################################### 100.0%
+==> Installing Cask docker
+==> Moving App 'Docker.app' to '/Applications/Docker.app'
+==> Linking Binary 'docker-compose.zsh-completion' to '/opt/homebrew/share/zsh/s
+==> Linking Binary 'docker-compose.fish-completion' to '/opt/homebrew/share/fish
+==> Linking Binary 'docker' to '/usr/local/bin/docker'
+Password:
+==> Linking Binary 'docker-credential-desktop' to '/usr/local/bin/docker-credent
+==> Linking Binary 'docker-credential-ecr-login' to '/usr/local/bin/docker-crede
+==> Linking Binary 'docker-credential-osxkeychain' to '/usr/local/bin/docker-cre
+==> Linking Binary 'hub-tool' to '/usr/local/bin/hub-tool'
+==> Linking Binary 'docker-compose' to '/usr/local/cli-plugins/docker-compose'
+==> Linking Binary 'docker.bash-completion' to '/opt/homebrew/etc/bash_completio
+==> Linking Binary 'docker.zsh-completion' to '/opt/homebrew/share/zsh/site-func
+==> Linking Binary 'docker.fish-completion' to '/opt/homebrew/share/fish/vendor_
+==> Linking Binary 'kubectl' to '/usr/local/bin/kubectl.docker'
+==> Linking Binary 'docker-compose.bash-completion' to '/opt/homebrew/etc/bash_c
+🍺  docker was successfully installed!
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+thinguyen@This-MacBook-Pro ~ % clear
+
+thinguyen@This-MacBook-Pro ~ % cd ~/Documents 
+thinguyen@This-MacBook-Pro Documents % ls
+thinguyen@This-MacBook-Pro Documents % brew install --cask google-chrome
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechr
+######################################################################### 100.0%
+Warning: Cannot verify integrity of '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'.
+No checksum was provided.
+For your reference, the checksum is:
+  sha256 "c70c7b2a30c11e4819c459c4f2fd5be98b97dd456f4a5783c70486115d8a223e"
+==> Installing Cask google-chrome
+==> Moving App 'Google Chrome.app' to '/Applications/Google Chrome.app'
+🍺  google-chrome was successfully installed!
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+thinguyen@This-MacBook-Pro Documents % clear
+
+thinguyen@This-MacBook-Pro Documents % ssh-keygen -t ed25519 -C "9102005duybao@gmail.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/thinguyen/.ssh/id_ed25519): 
+Created directory '/Users/thinguyen/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/thinguyen/.ssh/id_ed25519
+Your public key has been saved in /Users/thinguyen/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:VlFAWg5sVwut3gNYiog9ShEpIgv1efedP3OpwA7djCk 9102005duybao@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+| .oo   ...*=o    |
+|= o. .  o=oo..   |
+|+o +o..oo=o..    |
+|. o +...ooo. .   |
+| . . .  S..oo    |
+|  .    .  + B.  .|
+|         E * ++..|
+|          + . .+ |
+|           . .   |
++----[SHA256]-----+
+thinguyen@This-MacBook-Pro Documents % clear
+
+thinguyen@This-MacBook-Pro Documents % eval "$(ssh-agent -s)"
+Agent pid 5488
+thinguyen@This-MacBook-Pro Documents % open ~/.ssh/config
+The file /Users/thinguyen/.ssh/config does not exist.
+thinguyen@This-MacBook-Pro Documents % touch ~/.ssh/config
+
+thinguyen@This-MacBook-Pro Documents % open ~/.ssh/config
+thinguyen@This-MacBook-Pro Documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro Documents % open ~/.ssh       
+thinguyen@This-MacBook-Pro Documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro Documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro Documents % git clone git@github.com:Baotrh8805/documents.git
+Cloning into 'documents'...
+The authenticity of host 'github.com (20.205.243.166)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+remote: Enumerating objects: 783, done.
+remote: Total 783 (delta 0), reused 0 (delta 0), pack-reused 783 (from 1)
+Receiving objects: 100% (783/783), 47.34 MiB | 4.38 MiB/s, done.
+Resolving deltas: 100% (182/182), done.
+thinguyen@This-MacBook-Pro Documents % clear
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro Documents % ls
+documents
+thinguyen@This-MacBook-Pro Documents % git status
+fatal: not a git repository (or any of the parent directories): .git
+thinguyen@This-MacBook-Pro Documents % cd documents 
+thinguyen@This-MacBook-Pro documents % ls
+HTML			PBL2			mạng máy tính
+HTML.code-workspace	lap trinh.NET		pbl1.c
+Internet Simulation.pkt	lap trình java		toán ứng dụng 
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+thinguyen@This-MacBook-Pro documents % git add .
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .DS_Store
+
+thinguyen@This-MacBook-Pro documents % git commit -m "upload ds_store file"
+[main b194f3b] upload ds_store file
+ Committer: Thi Nguyen <thinguyen@This-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+thinguyen@This-MacBook-Pro documents % git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 401 bytes | 401.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:Baotrh8805/documents.git
+   1355665..b194f3b  main -> main
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+thinguyen@This-MacBook-Pro documents % clear
+
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Screen Shot 2025-02-19 at 20.51.53.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+thinguyen@This-MacBook-Pro documents % git add .
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   Screen Shot 2025-02-19 at 20.51.53.png
+
+thinguyen@This-MacBook-Pro documents % git commit -m "add image"
+[main 86c338e] add image
+ Committer: Thi Nguyen <thinguyen@This-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Screen Shot 2025-02-19 at 20.51.53.png
+thinguyen@This-MacBook-Pro documents % git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 514.86 KiB | 1.86 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:Baotrh8805/documents.git
+   b194f3b..86c338e  main -> main
+thinguyen@This-MacBook-Pro documents % clear
+
+thinguyen@This-MacBook-Pro documents % ls
+HTML					lap trinh.NET
+HTML.code-workspace			lap trình java
+Internet Simulation.pkt			mạng máy tính
+PBL2					pbl1.c
+Screen Shot 2025-02-19 at 20.51.53.png	toán ứng dụng 
+thinguyen@This-MacBook-Pro documents % rm -rf Screen\ Shot\ 2025-02-19\ at\ 20.51.53.png
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Screen Shot 2025-02-19 at 20.51.53.png
+
+no changes added to commit (use "git add" and/or "git commit -a")
+thinguyen@This-MacBook-Pro documents % git add .
+thinguyen@This-MacBook-Pro documents % git commit -m "delete image"
+[main c75d369] delete image
+ Committer: Thi Nguyen <thinguyen@This-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 Screen Shot 2025-02-19 at 20.51.53.png
+thinguyen@This-MacBook-Pro documents % git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 238 bytes | 238.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:Baotrh8805/documents.git
+   86c338e..c75d369  main -> main
+thinguyen@This-MacBook-Pro documents % ls
+HTML			PBL2			mạng máy tính
+HTML.code-workspace	lap trinh.NET		pbl1.c
+Internet Simulation.pkt	lap trình java		toán ứng dụng 
+thinguyen@This-MacBook-Pro documents % git pull
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 8 (delta 3), reused 7 (delta 3), pack-reused 0 (from 0)
+Unpacking objects: 100% (8/8), 676.72 KiB | 713.00 KiB/s, done.
+From github.com:Baotrh8805/documents
+   c75d369..f1bbfed  main       -> origin/main
+ * [new branch]      suu        -> origin/suu
+Updating c75d369..f1bbfed
+error: Your local changes to the following files would be overwritten by merge:
+	.DS_Store
+Please commit your changes or stash them before you merge.
+Aborting
+thinguyen@This-MacBook-Pro documents % ls
+HTML			PBL2			mạng máy tính
+HTML.code-workspace	lap trinh.NET		pbl1.c
+Internet Simulation.pkt	lap trình java		toán ứng dụng 
+thinguyen@This-MacBook-Pro documents % clear
+
+thinguyen@This-MacBook-Pro documents % open ./
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is behind 'origin/main' by 3 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+thinguyen@This-MacBook-Pro documents % git restore .DS_Store
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is behind 'origin/main' by 3 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working tree clean
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git pull
+Updating c75d369..f1bbfed
+Fast-forward
+ .DS_Store                             | Bin 8196 -> 8196 bytes
+ Screenshot 2025-02-20 at 01.01.01.png | Bin 0 -> 748934 bytes
+ test.txt                              |   1 +
+ 3 files changed, 1 insertion(+)
+ create mode 100644 Screenshot 2025-02-20 at 01.01.01.png
+ create mode 100644 test.txt
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+thinguyen@This-MacBook-Pro documents % ls 
+HTML					lap trình java
+HTML.code-workspace			mạng máy tính
+Internet Simulation.pkt			pbl1.c
+PBL2					test.txt
+Screenshot 2025-02-20 at 01.01.01.png	toán ứng dụng 
+lap trinh.NET
+thinguyen@This-MacBook-Pro documents % rm -rf test.txt 
+thinguyen@This-MacBook-Pro documents % ls
+HTML					lap trinh.NET
+HTML.code-workspace			lap trình java
+Internet Simulation.pkt			mạng máy tính
+PBL2					pbl1.c
+Screenshot 2025-02-20 at 01.01.01.png	toán ứng dụng 
+thinguyen@This-MacBook-Pro documents % rm -rf Screenshot\ 2025-02-20\ at\ 01.01.01.png
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Screenshot 2025-02-20 at 01.01.01.png
+	deleted:    test.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+thinguyen@This-MacBook-Pro documents % git add .
+thinguyen@This-MacBook-Pro documents % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    Screenshot 2025-02-20 at 01.01.01.png
+	deleted:    test.txt
+
+thinguyen@This-MacBook-Pro documents % git commit -m "xoa"
+[main 3ab651e] xoa
+ Committer: Thi Nguyen <thinguyen@This-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 deletion(-)
+ delete mode 100644 Screenshot 2025-02-20 at 01.01.01.png
+ delete mode 100644 test.txt
+thinguyen@This-MacBook-Pro documents % git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 238 bytes | 238.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:Baotrh8805/documents.git
+   f1bbfed..3ab651e  main -> main
+thinguyen@This-MacBook-Pro documents % git branch -d suu
+error: branch 'suu' not found.
+thinguyen@This-MacBook-Pro documents % git fetch
+thinguyen@This-MacBook-Pro documents % git branch
+* main
+thinguyen@This-MacBook-Pro documents % git checkout suu
+branch 'suu' set up to track 'origin/suu'.
+Switched to a new branch 'suu'
+thinguyen@This-MacBook-Pro documents % clear
+
+thinguyen@This-MacBook-Pro documents % git branch
+  main
+* suu
+thinguyen@This-MacBook-Pro documents % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+thinguyen@This-MacBook-Pro documents % git branch
+* main
+  suu
+thinguyen@This-MacBook-Pro documents % git branch -d suu
+Deleted branch suu (was 732ff6f).
+thinguyen@This-MacBook-Pro documents % git branch -D suu
+error: branch 'suu' not found.
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git checkout suu
+branch 'suu' set up to track 'origin/suu'.
+Switched to a new branch 'suu'
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+thinguyen@This-MacBook-Pro documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinguyen@This-MacBook-Pro documents % git branch
+* main
+  suu
+thinguyen@This-MacBook-Pro documents % git branch -D suu
+Deleted branch suu (was 732ff6f).
+thinguyen@This-MacBook-Pro documents % git checkout suu
+branch 'suu' set up to track 'origin/suu'.
+Switched to a new branch 'suu'
+thinguyen@This-MacBook-Pro documents % git checkout main 
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+thinguyen@This-MacBook-Pro documents % git push origin --delete suu
+To github.com:Baotrh8805/documents.git
+ - [deleted]         suu
+thinguyen@This-MacBook-Pro documents % touch hocgit.txt 
+thinguyen@This-MacBook-Pro documents % 
+
+
+
+
+
+
+
+
