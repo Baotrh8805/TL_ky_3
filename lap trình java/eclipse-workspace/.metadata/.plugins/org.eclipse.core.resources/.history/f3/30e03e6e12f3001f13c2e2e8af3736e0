@@ -1,0 +1,8 @@
+package bt_tren_lop;
+
+public class b4_static {
+	static int a = 40;
+	public static void main(String []st) {
+		System.out.printf(a);
+	}
+}
