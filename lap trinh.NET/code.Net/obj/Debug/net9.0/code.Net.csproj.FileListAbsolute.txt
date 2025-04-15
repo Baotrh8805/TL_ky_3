@@ -1,0 +1,29 @@
+/Users/thinguyen/code.Net/bin/Debug/net9.0/code.Net
+/Users/thinguyen/code.Net/bin/Debug/net9.0/code.Net.deps.json
+/Users/thinguyen/code.Net/bin/Debug/net9.0/code.Net.runtimeconfig.json
+/Users/thinguyen/code.Net/bin/Debug/net9.0/code.Net.dll
+/Users/thinguyen/code.Net/bin/Debug/net9.0/code.Net.pdb
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.AssemblyInfoInputs.cache
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.AssemblyInfo.cs
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.csproj.CoreCompileInputs.cache
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.dll
+/Users/thinguyen/code.Net/obj/Debug/net9.0/refint/code.Net.dll
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.pdb
+/Users/thinguyen/code.Net/obj/Debug/net9.0/code.Net.genruntimeconfig.cache
+/Users/thinguyen/code.Net/obj/Debug/net9.0/ref/code.Net.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/bin/Debug/net9.0/code.Net
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/bin/Debug/net9.0/code.Net.deps.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/bin/Debug/net9.0/code.Net.runtimeconfig.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/bin/Debug/net9.0/code.Net.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/bin/Debug/net9.0/code.Net.pdb
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.AssemblyInfoInputs.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.AssemblyInfo.cs
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.csproj.CoreCompileInputs.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.sourcelink.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/refint/code.Net.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.pdb
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/code.Net.genruntimeconfig.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/code.Net/obj/Debug/net9.0/ref/code.Net.dll

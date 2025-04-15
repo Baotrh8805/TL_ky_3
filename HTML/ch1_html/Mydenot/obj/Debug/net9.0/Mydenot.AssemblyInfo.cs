@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mydenot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fccb56362ab84d757d07c87496cbf782318a01e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mydenot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mydenot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

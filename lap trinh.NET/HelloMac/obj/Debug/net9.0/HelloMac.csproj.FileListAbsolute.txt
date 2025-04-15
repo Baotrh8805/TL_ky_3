@@ -1,0 +1,15 @@
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/bin/Debug/net9.0/HelloMac
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/bin/Debug/net9.0/HelloMac.deps.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/bin/Debug/net9.0/HelloMac.runtimeconfig.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/bin/Debug/net9.0/HelloMac.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/bin/Debug/net9.0/HelloMac.pdb
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.AssemblyInfoInputs.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.AssemblyInfo.cs
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.csproj.CoreCompileInputs.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.sourcelink.json
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/refint/HelloMac.dll
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.pdb
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/HelloMac.genruntimeconfig.cache
+/Users/thinguyen/TL_ky_3/lap trinh.NET/HelloMac/obj/Debug/net9.0/ref/HelloMac.dll
