@@ -1,0 +1,20 @@
+package daluong;
+
+
+public class Syn {
+	public void display() {
+		for(int i=1;i<=10;i+=2) {
+			System.out.print(i);
+			try {
+				Thread.sleep(1000);
+				
+			}catch (Exception ee) {}
+		}
+	}
+}
+class Nosyn extends Thread{
+	Syn a=new Syn();
+	public void run() {
+		a.display();
+	}
+}

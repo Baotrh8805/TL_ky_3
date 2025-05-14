@@ -1,0 +1,31 @@
+package daluong;
+
+
+ class Sy {
+	public synchronized void  display() {
+		for(int i=1;i<=10;i+=2) {
+			System.out.print(i);
+			try {
+				Thread.sleep(1000);
+				
+			}catch (Exception ee) {}
+		}
+	}
+}
+class Syn extends Thread{
+	
+	static Sy a=new Sy();
+	public void run() {
+		a.display();
+	}
+	
+	public static void main (String []s) {
+		Syn m=new Syn();
+		Syn  n=new Syn();
+		m.start();
+		n.start();
+
+	}
+	
+}
+
