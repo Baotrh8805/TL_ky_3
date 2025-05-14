@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VSkCY8HV3/6YyCXo2Vnch399vdPG4gVBI7A3PQcxNMw=",
+  "Hash": "qNAJAY5+2KjbpTHFaoGFdd2Z05XIzfO+FvNoY7au28Y=",
   "Source": "Project",
   "BasePath": "_content/Project",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Project\\wwwroot",
+      "Name": "Project/wwwroot",
       "Source": "Project",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Project.styles.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css",
       "SourceId": "Project",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/Project",
       "RelativePath": "Project#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "256jki0bvs",
-      "Integrity": "1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=",
+      "Fingerprint": "jw493eedlh",
+      "Integrity": "7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Project.styles.css"
+      "OriginalItemSpec": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css",
       "SourceId": "Project",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/Project",
       "RelativePath": "Project#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "256jki0bvs",
-      "Integrity": "1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=",
+      "Fingerprint": "jw493eedlh",
+      "Integrity": "7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css"
+      "OriginalItemSpec": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\css\\site.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/css/site.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -77,13 +77,13 @@
       "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\favicon.ico",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/favicon.ico",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\images\\home_index.jpg",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/images/home_index.jpg",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "images/home_index#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "HQhef7SY5dZZwMW1Bm/lTusOcr3Z3tucsm2HYFwSUdo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\home_index.jpg"
+      "OriginalItemSpec": "wwwroot/images/home_index.jpg"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\js\\site.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/js/site.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -161,13 +161,13 @@
       "Integrity": "JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -182,13 +182,13 @@
       "Integrity": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -203,13 +203,13 @@
       "Integrity": "ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -245,13 +245,13 @@
       "Integrity": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -266,13 +266,13 @@
       "Integrity": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -287,13 +287,13 @@
       "Integrity": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -308,13 +308,13 @@
       "Integrity": "NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -329,13 +329,13 @@
       "Integrity": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -350,13 +350,13 @@
       "Integrity": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "Integrity": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -392,13 +392,13 @@
       "Integrity": "2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "Integrity": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -434,13 +434,13 @@
       "Integrity": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -455,13 +455,13 @@
       "Integrity": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -476,13 +476,13 @@
       "Integrity": "GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -497,13 +497,13 @@
       "Integrity": "NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -518,13 +518,13 @@
       "Integrity": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -539,13 +539,13 @@
       "Integrity": "5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -560,13 +560,13 @@
       "Integrity": "p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -581,13 +581,13 @@
       "Integrity": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -602,13 +602,13 @@
       "Integrity": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -623,13 +623,13 @@
       "Integrity": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -644,13 +644,13 @@
       "Integrity": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -665,13 +665,13 @@
       "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -686,13 +686,13 @@
       "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -707,13 +707,13 @@
       "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -749,13 +749,13 @@
       "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -770,13 +770,13 @@
       "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -791,13 +791,13 @@
       "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -833,13 +833,13 @@
       "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -854,13 +854,13 @@
       "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -875,13 +875,13 @@
       "Integrity": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -896,13 +896,13 @@
       "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -917,13 +917,13 @@
       "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -938,13 +938,13 @@
       "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -959,13 +959,13 @@
       "Integrity": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -980,13 +980,13 @@
       "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1001,13 +1001,13 @@
       "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1022,13 +1022,13 @@
       "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1043,13 +1043,13 @@
       "Integrity": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1064,13 +1064,13 @@
       "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "Integrity": "ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1106,13 +1106,13 @@
       "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1127,13 +1127,13 @@
       "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1148,13 +1148,13 @@
       "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1169,13 +1169,13 @@
       "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1190,13 +1190,13 @@
       "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1232,13 +1232,13 @@
       "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1253,13 +1253,13 @@
       "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1274,13 +1274,13 @@
       "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Project",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\",
+      "ContentRoot": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/",
       "BasePath": "_content/Project",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1337,13 +1337,13 @@
       "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     }
   ],
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\css\\site.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1364,7 +1364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1388,7 +1388,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\css\\site.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1409,7 +1409,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1425,7 +1425,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\favicon.ico",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1446,7 +1446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1470,7 +1470,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\favicon.ico",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1491,7 +1491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1507,7 +1507,7 @@
     },
     {
       "Route": "images/home_index.99luxo2kkz.jpg",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\images\\home_index.jpg",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/images/home_index.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1528,7 +1528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:26:34 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1552,7 +1552,7 @@
     },
     {
       "Route": "images/home_index.jpg",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\images\\home_index.jpg",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/images/home_index.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1573,7 +1573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:26:34 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1589,7 +1589,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\js\\site.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1610,7 +1610,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1626,7 +1626,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\js\\site.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1647,7 +1647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1671,7 +1671,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1692,7 +1692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1716,7 +1716,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1737,7 +1737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1753,7 +1753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1774,7 +1774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1790,7 +1790,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1811,7 +1811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1835,7 +1835,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1856,7 +1856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1872,7 +1872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1893,7 +1893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1917,7 +1917,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1938,7 +1938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1954,7 +1954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1975,7 +1975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1999,7 +1999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2020,7 +2020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2036,7 +2036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2057,7 +2057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2081,7 +2081,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2102,7 +2102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2118,7 +2118,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2139,7 +2139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2155,7 +2155,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2176,7 +2176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2192,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2237,7 +2237,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2258,7 +2258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2282,7 +2282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2303,7 +2303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2327,7 +2327,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2348,7 +2348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2372,7 +2372,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2393,7 +2393,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2409,7 +2409,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +2430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2454,7 +2454,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2475,7 +2475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2491,7 +2491,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2512,7 +2512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2528,7 +2528,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2549,7 +2549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2565,7 +2565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2586,7 +2586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2610,7 +2610,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2631,7 +2631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2655,7 +2655,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2676,7 +2676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2700,7 +2700,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2721,7 +2721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2737,7 +2737,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2758,7 +2758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2782,7 +2782,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2803,7 +2803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2819,7 +2819,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2840,7 +2840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2856,7 +2856,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2877,7 +2877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2893,7 +2893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2914,7 +2914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2938,7 +2938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2983,7 +2983,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3004,7 +3004,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3020,7 +3020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3041,7 +3041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3065,7 +3065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3086,7 +3086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3102,7 +3102,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3123,7 +3123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3147,7 +3147,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3168,7 +3168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3184,7 +3184,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3205,7 +3205,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3221,7 +3221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3242,7 +3242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3266,7 +3266,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3287,7 +3287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3311,7 +3311,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3332,7 +3332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3348,7 +3348,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3369,7 +3369,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3393,7 +3393,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3414,7 +3414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3430,7 +3430,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3451,7 +3451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3467,7 +3467,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3488,7 +3488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3512,7 +3512,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3533,7 +3533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3549,7 +3549,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3570,7 +3570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3594,7 +3594,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3615,7 +3615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3639,7 +3639,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3660,7 +3660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3676,7 +3676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3697,7 +3697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3721,7 +3721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3742,7 +3742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3758,7 +3758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3779,7 +3779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3803,7 +3803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3824,7 +3824,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3840,7 +3840,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3861,7 +3861,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3885,7 +3885,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3906,7 +3906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3922,7 +3922,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3943,7 +3943,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3967,7 +3967,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3988,7 +3988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4004,7 +4004,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4025,7 +4025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4049,7 +4049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4070,7 +4070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4086,7 +4086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4107,7 +4107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4131,7 +4131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4152,7 +4152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4168,7 +4168,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4189,7 +4189,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4213,7 +4213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4234,7 +4234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4250,7 +4250,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4271,7 +4271,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4295,7 +4295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4316,7 +4316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4332,7 +4332,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4353,7 +4353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4377,7 +4377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4398,7 +4398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4414,7 +4414,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4435,7 +4435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4459,7 +4459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4480,7 +4480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4504,7 +4504,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4525,7 +4525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4541,7 +4541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4562,7 +4562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4586,7 +4586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4607,7 +4607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4623,7 +4623,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4644,7 +4644,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4660,7 +4660,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4681,7 +4681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4705,7 +4705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4726,7 +4726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4742,7 +4742,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4763,7 +4763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4787,7 +4787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4808,7 +4808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4824,7 +4824,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4845,7 +4845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4861,7 +4861,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4882,7 +4882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4906,7 +4906,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4927,7 +4927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4951,7 +4951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4972,7 +4972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4988,7 +4988,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5009,7 +5009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5033,7 +5033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5054,7 +5054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5070,7 +5070,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5091,7 +5091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5107,7 +5107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5128,7 +5128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5144,7 +5144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5165,7 +5165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5189,7 +5189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5210,7 +5210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5234,7 +5234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5255,7 +5255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5279,7 +5279,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5300,7 +5300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5316,7 +5316,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5337,7 +5337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5361,7 +5361,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5382,7 +5382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5406,7 +5406,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5427,7 +5427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5443,7 +5443,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5464,7 +5464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5488,7 +5488,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5509,7 +5509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5525,7 +5525,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5546,7 +5546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5570,7 +5570,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5591,7 +5591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5607,7 +5607,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5628,7 +5628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5652,7 +5652,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5673,7 +5673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5689,7 +5689,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5710,7 +5710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5734,7 +5734,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5755,7 +5755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5771,7 +5771,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5792,7 +5792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5808,7 +5808,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5829,7 +5829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5853,7 +5853,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5874,7 +5874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5890,7 +5890,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5911,7 +5911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5935,7 +5935,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5956,7 +5956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5972,7 +5972,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5993,7 +5993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6017,7 +6017,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6038,7 +6038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6062,7 +6062,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6083,7 +6083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6099,7 +6099,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6120,7 +6120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6144,7 +6144,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6165,7 +6165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6189,7 +6189,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6210,7 +6210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6226,7 +6226,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6247,7 +6247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:53 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6263,7 +6263,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6284,7 +6284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6308,7 +6308,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6329,7 +6329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 03:14:54 GMT"
+          "Value": "Thu, 24 Apr 2025 03:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6344,8 +6344,8 @@
       ]
     },
     {
-      "Route": "Project.256jki0bvs.bundle.scp.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "Route": "Project.bundle.scp.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6354,7 +6354,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1195"
+          "Value": "1143"
         },
         {
           "Name": "Content-Type",
@@ -6362,11 +6362,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=\""
+          "Value": "\"7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:52:20 GMT"
+          "Value": "Sat, 26 Apr 2025 02:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg="
+        }
+      ]
+    },
+    {
+      "Route": "Project.jw493eedlh.bundle.scp.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/projectbundle/Project.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 02:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6376,7 +6413,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "256jki0bvs"
+          "Value": "jw493eedlh"
         },
         {
           "Name": "label",
@@ -6384,13 +6421,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0="
+          "Value": "sha256-7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg="
         }
       ]
     },
     {
-      "Route": "Project.256jki0bvs.styles.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Project.styles.css",
+      "Route": "Project.jw493eedlh.styles.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6399,7 +6436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1195"
+          "Value": "1143"
         },
         {
           "Name": "Content-Type",
@@ -6407,11 +6444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=\""
+          "Value": "\"7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:52:20 GMT"
+          "Value": "Sat, 26 Apr 2025 02:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6421,7 +6458,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "256jki0bvs"
+          "Value": "jw493eedlh"
         },
         {
           "Name": "label",
@@ -6429,50 +6466,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0="
-        }
-      ]
-    },
-    {
-      "Route": "Project.bundle.scp.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1195"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:52:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0="
+          "Value": "sha256-7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg="
         }
       ]
     },
     {
       "Route": "Project.styles.css",
-      "AssetFile": "D:\\University\\Lap_trinh_NET\\Project\\Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Project.styles.css",
+      "AssetFile": "/Users/thinguyen/TL_ky_3/Project (1)/obj/Debug/net8.0/scopedcss/bundle/Project.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6481,7 +6481,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1195"
+          "Value": "1143"
         },
         {
           "Name": "Content-Type",
@@ -6489,11 +6489,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0=\""
+          "Value": "\"7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 17:52:20 GMT"
+          "Value": "Sat, 26 Apr 2025 02:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6503,7 +6503,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1oGJhiqQfWokliUfrnAg6m3fk68dup8LHQrIU2YlQF0="
+          "Value": "sha256-7YPiJTFKxhTSdK7q1oPGclSQ78QfBNHFqaNs8Yvpqtg="
         }
       ]
     }
